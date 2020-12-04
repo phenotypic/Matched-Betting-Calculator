@@ -1,2 +1,2 @@
-prettytable>=0.7.2
+prettytable>=2.0.0
 tabulate>=0.8.7
