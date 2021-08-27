@@ -7,7 +7,7 @@ This script functions as a calculator for a number of [matched betting](https://
 3. Free bet (SR)
 4. Lost bet refund
 
-The script assumes you have found the most optimal decimal back/lay odds for the type of bet you are performing.
+The script assumes you have found the optimal decimal back/lay odds for the type of bet you are performing.
 
 After running the script and entering the required information, you will be given the calculated lay stake, the estimated liability, and the overall profitability for the bet.
 
