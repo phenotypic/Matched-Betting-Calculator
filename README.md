@@ -15,7 +15,7 @@ After running the script and entering the required information, you will be give
 
 Download with:
 ```
-git clone https://github.com/Tommrodrigues/Matched-Betting-Calculator.git
+git clone https://github.com/phenotypic/Matched-Betting-Calculator.git
 pip3 install -r ~/Matched-Betting-Calculator/requirements.txt
 ```
 
